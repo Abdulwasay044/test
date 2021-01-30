@@ -1,0 +1,21 @@
+My cv{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: darkslategray;
+    width: auto;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    background-color: brown;
+    width: auto;
+    font-size: 30px;
+}
+h3{
+    text-align: center;
+    background-color: brown;
+    width: auto;
+    font-size: 25px;
+}
